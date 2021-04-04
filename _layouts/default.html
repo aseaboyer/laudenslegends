@@ -5,6 +5,8 @@
 
     {% include meta.html %}
 
+    {% include gtm-head.html %}
+
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -16,6 +18,8 @@
   </head>
 
   <body>
+    {% include gtm-body.html %}
+
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -47,6 +51,5 @@
     </div>
 
     {% include analytics.html %}
-    {% include gtm-body.html %}
   </body>
 </html>
