@@ -241,6 +241,10 @@ nav {
 // .main
 //
 
+#main {
+  padding-bottom:2.8rem;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -289,6 +293,7 @@ footer {
 
   p {
     font-size: 0.8rem;
+    margin: 0.8rem 0;
   }
 }
 
