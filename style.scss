@@ -18,8 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  //font: 18px/1.4 $helvetica;
+  font-family: 'PT Serif', serif;
+  font-size:16px;
   color: $darkGray;
 }
 
