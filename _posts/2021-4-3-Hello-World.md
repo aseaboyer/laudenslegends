@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-tag: News
+tags: "News"
 teaser: Hello World!
 ---
 
