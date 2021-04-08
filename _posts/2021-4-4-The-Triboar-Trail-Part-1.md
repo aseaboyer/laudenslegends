@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Triboar Trail, Part 1. Reunions
+title: The Triboar Trail, Chapter 1. Reunions
 tag: The Triboar Trail
+teaser: A final burst of laughter escapes Tinkerella's signature pink lips as she extinguishes the conjured flickering flame with a wave of her hand. Ignoring Ivandale Nightthorn's extended hand, she bounds from the cart, saying her goodbyes to the giggling children she was entertaining. Ivandale shoots an apologetic look and a 'thank you' to the parents who had given them a ride on their cart along the last few miles on the High Road.
 ---
 
 A final burst of laughter escapes Tinkerella's signature pink lips as she extinguishes the conjured flickering flame with a wave of her hand. Ignoring Ivandale Nightthorn's extended hand, she bounds from the cart, saying her goodbyes to the giggling children she was entertaining. Ivandale shoots an apologetic look and a 'thank you' to the parents who had given them a ride on their cart along the last few miles on the High Road.
