@@ -202,14 +202,9 @@ img {
   letter-spacing: 1px;
 
   
-  font-family: $helveticaNeue;
   font-family: 'PT Serif', serif;
-  color: $darkerGray;
-  font-size: 30px;
   font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
