@@ -1,7 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" dir="ltr">
   <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.name }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index,follow">
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <meta name="description" content="{% if page.teaser %}{{ page.teaser }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta property="og:url" content="{{ site.root_url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+    <meta property="og:description" content="{% if page.teaser %}{{ page.teaser }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:url" content="{{ site.root_url }}">
+    <meta name="twitter:description" content="{% if page.teaser %}{{ page.teaser }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
 
     {% include meta.html %}
 
