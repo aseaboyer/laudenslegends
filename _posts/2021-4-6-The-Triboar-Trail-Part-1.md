@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Triboar Trail, Chapter 1. Reunions
-tags: "The Triboar Trail"
+series: "The Triboar Trail"
 teaser: A final burst of laughter escapes Tinkerella's signature pink lips as she extinguishes the conjured flickering flame with a wave of her hand. Ignoring Ivandale Nightthorn's extended hand, she bounds from the cart, saying her goodbyes to the giggling children she was entertaining. Ivandale shoots an apologetic look and a 'thank you' to the parents who had given them a ride on their cart along the last few miles on the High Road.
 ---
 
-A final burst of laughter escapes Tinkerella's signature pink lips as she extinguishes the conjured flickering flame with a wave of her hand. Ignoring Ivandale Nightthorn's extended hand, she bounds from the cart, saying her goodbyes to the giggling children she was entertaining. Ivandale shoots an apologetic look and a 'thank you' to the parents who had given them a ride on their cart along the last few miles on the High Road.
+## 1.1 Waterdeep
 
-### 1.1 Waterdeep
+A final burst of laughter escapes Tinkerella's signature pink lips as she extinguishes the conjured flickering flame with a wave of her hand. Ignoring Ivandale Nightthorn's extended hand, she bounds from the cart, saying her goodbyes to the giggling children she was entertaining. Ivandale shoots an apologetic look and a 'thank you' to the parents who had given them a ride on their cart along the last few miles on the High Road.
 
 After two long weeks traveling along the Trade Way, the two members of the Rangers of Red Larch have finally arrived in Waterdeep. Dirty, tired, and sore - the pair find an affordable inn with similar characteristics on Carter's Way in the Southern Ward. It's a safe place to stow their packs before they head out in search of food and entertainment.
 
@@ -28,7 +28,7 @@ Ivandale notices Nalfos's interest pick up whenever Tinkerella mentions some of 
 
 The hearth has been left to smolder as the trio leave the tavern. Ivandale provides Nalfos with the arrangements to meet Gundren Rockseeker, their employer, nearby at dawn the following morning.
 
-### 1.2 Employment
+## 1.2 Employment
 
 As planned, the three round a corner and enter a small store yard. Two oxen hitched to a covered cart suck water from a trough. A dwarf carefully evaluates and marks a long scroll while a well armored bodyguard surveys the grounds. He clears his throat as the group enters. The Dwarf looks up quickly. Ivandale turns down the collar of his cloack revealing a badge bearing a red larch tree, a guild crest belonging to members of the Rangers of Red Larch. The Dwarf fixes a furious stare at him. "Three? The agreement was two!", he scolds, pointing a stubby finger at his parchment.
 
@@ -44,7 +44,7 @@ Both groups set out from the stock yard. Gundren and Sildar quickly leave the gr
 
 The High Road is open and well travelled. On the third evening they turn onto the Triboar Trail. It is a much more secluded path with few signs of civilization. The trio pushes the oxen on cautiously. They soon discover an obstruction on the road ahead.
 
-### 1.3 Trial and Fire
+## 1.3 Trial and Fire
 
 Unable to pass and sensing an ambush, Nalfos quickly draws the oxen to a halt. The three adventurers jump to the ground and take a defensive position behind the open cart.
 
@@ -82,4 +82,4 @@ the cart and describes the grisly scene ahead.
 
 The adventures find themselves in a troublesome predicament. They can not leave the wagon full of goods idle for fear of opportunists, but they suspect their employers may be captured. Nalfos suggests that they hide the cart just off the trail. They clear the scene to not give cause to slow down for any travelers passing through.
 
-The three adventurers sleep under the cart, taking turns keeping watch throughout the night. The only disturbances are the snores and shifting of a drunken barbarian woman
+The three adventurers sleep under the cart, taking turns keeping watch throughout the night. The only disturbances are the snores and shifting of a drunken barbarian woman.
