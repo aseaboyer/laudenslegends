@@ -8,6 +8,9 @@ name: Lauden's Legends
 # Short bio or description (displayed in the header)
 description: Writing fictional adventures
 
+# Root URL (used in templates)
+root_url: http://laudenslegends.com/
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
 
