@@ -4,8 +4,11 @@ title: Series
 permalink: /series/
 ---
 
+Some of the stories featured on this site are short-stories presented in a number of sequential installments. In other cases, a stand-alone story may overlap with other stories. If you are enjoying a story or you are unsure where to start reading, this reading order has been created with you in mind.
+
 ## The Triboar Trail
 
+The Triboar trail is the retelling of an adventure played by a group of friends which is set in a popular tabletop campaign.
+
 1. [Reunions]({% post_url 2021-4-4-The-Triboar-Trail-Part-1 %})
-
-
+2. [Ambushes]({% post_url 2021-4-13-The-Triboar-Trail-Part-2 %})
