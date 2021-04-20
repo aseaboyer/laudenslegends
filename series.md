@@ -12,3 +12,4 @@ The Triboar trail is the retelling of an adventure played by a group of friends 
 
 1. [Reunions]({% post_url 2021-4-4-The-Triboar-Trail-Part-1 %})
 2. [Ambushes]({% post_url 2021-4-13-The-Triboar-Trail-Part-2 %})
+2. [Revelations]({% post_url 2021-4-20-The-Triboar-Trail-Part-3 %})
