@@ -259,6 +259,10 @@ nav {
 
 #main {
   padding-bottom:2.8rem;
+  
+  @include mobile {
+    position: fixed;
+  }
 }
 
 .posts > .post {
@@ -292,14 +296,17 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 
   bottom: 0;
-  position: fixed;
+  position: initial;
   width: 100%;
+
+  @include mobile {
+    position: fixed;
+  }
 }
 
 footer {
