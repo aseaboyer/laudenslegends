@@ -2,7 +2,7 @@
 layout: post
 title: The Triboar Trail, Chapter 5. Taking the Fight to the Enemy
 series: "The Triboar Trail"
-teaser: The adventurers return to the Stonehill Inn and order lunch. As they wait for their meals, a young elven cleric enters the tavern. She thanks them for standing up to the Redbrands while savory aromas spread from the kitchen. She bestows Tymora's blessing upon them and exits the inn. As she leaves, a large, well-armored human with jet black hair and grey eyes fills the doorframe. An axe rests at his hip and a large shield is strapped to his back. Admiring his armor, Meza smiles and waves him over. Nalfos requests an additional plate for the adventurer and asks his purpose in town.
+teaser: The adventurers return to the Stonehill Inn and order lunch. As they wait for their meals, a young elven cleric enters the tavern. She thanks them for standing up to the Redbrands while savory aromas spread from the kitchen. She bestows Tymora's blessing upon them and exits the inn.
 ---
 
 ## 5.1 The Orchard
