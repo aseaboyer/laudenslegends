@@ -17,4 +17,4 @@ The Triboar trail is the retelling of an adventure played by a group of friends 
 5. [Taking the Fight to the Enemy]({% post_url 2021-5-4-The-Triboar-Trail-Part-5 %})
 6. [Two Steps Forward, One Step Back]({% post_url 2021-5-11-The-Triboar-Trail-Part-6 %})
 7. [Unexpected Allies]({% post_url 2021-5-20-The-Triboar-Trail-Part-7 %})
-8. [Droop]({% 2021-5-27-The-Triboar-Trail-Part-8 %})
+8. [Droop]({% post_url 2021-5-27-The-Triboar-Trail-Part-8 %})
