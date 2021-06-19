@@ -19,3 +19,4 @@ The Triboar trail is the retelling of an adventure played by a group of friends 
 7. [Unexpected Allies]({% post_url 2021-5-20-The-Triboar-Trail-Part-7 %})
 8. [Droop]({% post_url 2021-5-27-The-Triboar-Trail-Part-8 %})
 9. [Showdown]({% post_url 2021-6-05-The-Triboar-Trail-Part-9 %})
+10. [Group Dynamics]({% post_url 2021-6-17-The-Triboar-Trail-Part-10 %})
