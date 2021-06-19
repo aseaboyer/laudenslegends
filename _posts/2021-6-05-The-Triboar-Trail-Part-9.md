@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Triboar Trail, Chapter 8. Showdown
+title: The Triboar Trail, Chapter 9. Showdown
 series: "The Triboar Trail"
 teaser: Ivandale sits down at the campfire, sore from a long days march into unknown territory. He watches Droop hungrily gnaw on a piece of jerky. The sparkle of several rings gleam in the firelight on the goblin's fingers.
 ---
